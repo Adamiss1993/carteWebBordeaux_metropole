@@ -2,7 +2,7 @@
 La question centrale de ce projet est de savoir si la croissance démographique de Bordeaux Métropole s'accompagne d'une offre de services de proximité suffisante. Nous chercherons particulièrement à identifier les disparités d'accès aux pharmacies, écoles maternelles, collèges et aux médecin generalistes en fonction du réseau de transport en commun existant notamment trams et bus .
 
 
-########Les réquêtes qui mon aider à bien construire ma base 
+########Les réquêtes qui m'ont aider à bien construire ma base 
 
 
 ##----Verifier le système de projection des mes tables 
